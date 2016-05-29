@@ -1,4 +1,4 @@
-# coding=utf
+# coding=utf8
 import os
 
 from sklearn import linear_model
